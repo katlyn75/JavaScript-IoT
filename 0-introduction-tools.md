@@ -21,7 +21,7 @@ Would you like a notification when your dryer is done?  How about a text message
 
 ## NodeMCU module
 
-This is a microcontroller that is quite versatile.  It contains a wifi radio and 4MB of RAM, and can be used with a variety of different languages.  They come with a scripting languaged called Lua on the, but can be used in an Arduino environment, or flashed with Python or JavaScript interpreters.  Today, we'll be using a JavaScript runtime called Espruino with a tool called ThingsSDK-cli
+This is a micro-controller that is quite versatile.  It contains a wi-fi radio and 4MB of RAM, and can be used with a variety of different languages.  They come with a scripting language called Lua on the, but can be used in an Arduino environment, or flashed with Python or JavaScript interpreters.  Today, we'll be using a JavaScript runtime called Espruino with a tool called ThingsSDK-cli
 
 ## ThingsSDK
 
@@ -43,7 +43,7 @@ There are some notable differences in using Espruino vs. node/browser JavaScript
 
 ## Electronics
 
-We'll be using LEDs and resistors, as well as some buttons and jump wires on a solderless breadboard.  
+We'll be using LEDs and resistors, as well as some buttons and jump wires on a solder-less breadboard.  
 
 ## ThingsSDK-cli
 
